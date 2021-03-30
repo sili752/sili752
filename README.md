@@ -15,11 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sili752</h1>
-<h3 align="center"></h3>
+<h3 align="center">I am a computer enthusiast, but especially of systems and networks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sili752&label=Profile%20views&color=0fb513&style=plastic" alt="sili752" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sili752" alt="sili752" /></a> </p>
+
+- 🔭 I am working on my website [sili.kprz.fr](sili.kprz.fr)
+
+- 🌱 I currenctly learning : **Python3, Java and PHP**
+
+- 👨‍💻 The link to my presentation page [sili.kprz.fr/portfolio](sili.kprz.fr/portfolio)
+
+- 📝 The link to a page where there will be documents [sili.kprz.fr/doc](sili.kprz.fr/doc)
+
+- 📫 How to reach me **samuelpabeau2001@gmail.com**
+
+- 📄 Link to a page where I list my skills [sili.kprz.fr/skill](sili.kprz.fr/skill)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
