@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📝 The link to a page where there will be documents [https://docs.sili752.fr/](https://docs.sili752.fr/)
 
-- 📫 How to reach me **samuelpabeau2001@gmail.com**
+- 📫 How to reach me **contact@sili752.fr**
 
 - 📄 Link to a page where I list my skills [https://www.sili752.fr/skill](https://www.sili752.fr/skill)
 
