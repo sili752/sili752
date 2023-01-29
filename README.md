@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sili752" alt="sili752" /></a> </p>
 
-- 🔭 I am working on my website [https://www.sili752.fr](https://www.sili752.fr)
+- 🔭 I am working on my website [here](https://www.sili752.fr)
 
 - 🌱 I currenctly learning : **Python3, Java and PHP**
 
-- 👨‍💻 The link to my presentation page [https://perso.sili752.fr/](https://perso.sili752.fr/)
+- 👨‍💻 The link to my presentation page [here](https://perso.sili752.fr/)
 
-- 📝 The link to a page where there will be documents [https://docs.sili752.fr/](https://docs.sili752.fr/)
+- 📝 The link to a page where there will be documents [here](https://docs.sili752.fr/)
 
 - 📫 How to reach me **contact@sili752.fr**
 
-- 📄 Link to a page where I list my skills [https://www.sili752.fr/skill](https://www.sili752.fr/skill)
+- 📄 Link to a page where I list my skills [here](https://www.sili752.fr/skill)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
