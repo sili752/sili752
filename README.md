@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 The link to my presentation page [here](https://perso.sili752.fr/)
 
-- 📝 The link to a page where there will be documents [here](https://docs.sili752.fr/)
+<!-- - 📝 The link to a page where there will be documents [here](https://docs.sili752.fr/) -->
 
 - 📫 How to reach me **contact@sili752.fr**
 
