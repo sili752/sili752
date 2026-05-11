@@ -164,12 +164,12 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-<h3 align="left">Support:</h3>
+<!--###
+<!--<h3 align="left">Support:</h3>
 <!--<p><a href="https://www.buymeacoffee.com/¯\_(ツ)_/¯"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="¯\_(ツ)_/¯" /></a><a href="https://ko-fi.com/¯\_(ツ)_/¯"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="¯\_(ツ)_/¯" /></a></p><br><br>-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sili752&show_icons=true&theme=dark&locale=en&layout=compact" alt="sili752" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sili752&show_icons=true&theme=dark&locale=en&layout=compact" alt="sili752" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sili752&show_icons=true&theme=dark&locale=en" alt="sili752" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sili752&show_icons=true&theme=dark&locale=en" alt="sili752" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sili752&theme=dark" alt="sili752" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sili752&theme=dark" alt="sili752" /></p>-->
