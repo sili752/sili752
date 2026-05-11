@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sili752" alt="sili752" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sili752" target="blank"><img src="https://img.shields.io/twitter/follow/sili752?logo=twitter&style=for-the-badge" alt="sili752" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/sili752" target="blank"><img src="https://img.shields.io/twitter/follow/sili752?logo=twitter&style=for-the-badge" alt="sili752" /></a> </p>-->
 
 - 🔭 I’m currently working on [¯\_(ツ)_/¯](¯\_(ツ)_/¯)
 
